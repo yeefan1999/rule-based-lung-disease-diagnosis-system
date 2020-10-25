@@ -4,4 +4,6 @@ This is a project for rule-based lung diasease diagnosis system. This is designe
 
 The system will ask the user a series of question, and based on the response given and provide the result to the user together with the reasons, treatments and diagnosis method.
 
+At last, CX_Freeze is used to make it an executable application. 
+
 Read usermanual.txt for the requirement and ways to navigate this project.
