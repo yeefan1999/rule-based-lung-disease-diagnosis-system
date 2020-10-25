@@ -1,0 +1,26 @@
+User Manual
+----------------
+
+First method - Navigate through executable file
+
+1. Navigate to build -> exe.win-amd64-3.7 -> es.exe
+2. Open es.exe
+3. A user interface will pop out, key in the necessary information to proceed to every next step in the program
+
+
+Second method - Navigate using command prompt
+
+1. Open your cmd / terminal
+2. cd to this location "Project/Code files/"
+3. type "  python es.py  "
+4. A user interface will pop out, key in the necessary information to proceed to every next step in the program
+* You should have Python,clipspy, tkinter libraries installed in your environment if you want to use this method
+* You can install clipspy and tkinter library via this command " pip install clipspy tkinter"
+
+
+
+
+* "Code files" folder contained all the source code of the application
+	- setup.py - to setup the executable file of the system
+	- es.py - the user interface of the system
+	- es_rules.CLP - clips file contained all the rules of the system
